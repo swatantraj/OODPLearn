@@ -1,0 +1,19 @@
+General reusable solution to a commonly occurring problem 
+
+Design patterns are already defined and provides industry standard approach to solve recurring problem, so it saves time if we use the design pattern .
+Using design pattern promotes re-usability that leads to more robust and highly maintainable code.
+Since design patterns are already defined, it makes out code easy to understand and debug. It lead to faster development and new members of team understand it easily.
+
+Creational design pattens provide solution to instantiate an object in the best possible way 
+
+Singleton Pattern > One Class, one Instance. > Loggers, Runtime
+Factory Pattern > Coding to Interface > Hibernate
+Abstract Factory Pattern > Factory of Factories > 
+Builder Pattern > Issues with Factory and Abstract Factory with many attributes > SessionFactoryBuilder Hibernate
+Prototype Pattern > Heavy object, reutilization rather than creating from scratch > 
+
+Structural Patterns provide different ways to create a class structure > Inheritance, Composition
+
+Adapter Pattern > Adapter is like a bridge, two different interfaces can work together
+Composition > When an object is composed on several smaller objs - Base, Leaf, Composite
+Proxy Pattern > Controlled access to functionality, surrogate placeholder
